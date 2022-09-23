@@ -8,6 +8,7 @@
 ## Tech stack & Open-source libraries
 
 - Flutter
+- Material 3
 - GetX for state management
 - Dio for http request
 - Repository Pattern
