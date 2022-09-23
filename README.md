@@ -1,16 +1,16 @@
-# attendance_app
+## Overview
+|   Store List   | Store Details |
+|     :---:      |     :---:      |
+|   <img src="1_overview.gif"/>   |    <img src="2_overview.gif"/>  |
 
-Online attendance app
+<br/>
 
-## Getting Started
+## Tech stack & Open-source libraries
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- GetX for state management
+- Dio for http request
+- Repository Pattern
+- Usecase
+- Animation
+- Pagination
